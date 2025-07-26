@@ -3,7 +3,7 @@
 # Wedding Site Startup Script
 # This script starts the wedding site using gulp
 
-# Set the working directory to the nuptial folder
+# Set the working directory to the root directory (files moved from nuptial folder)
 cd "$(dirname "$0")"
 
 # Set NODE_ENV if not already set

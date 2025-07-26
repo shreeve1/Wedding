@@ -29,7 +29,7 @@ Install dependencies:
 npm install
 ```
 
-Start development server with live reload (runs on http://localhost:8080):
+Start development server with live reload (runs on http://localhost:8040 or http://[your-ip]:8040):
 ```bash
 gulp
 # or
